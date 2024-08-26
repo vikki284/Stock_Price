@@ -19,11 +19,7 @@ Stock prices are highly volatile and exhibit complex patterns. Predicting these 
 
 ## Dataset
 The dataset contains various features including:
-- OHLC (Open, High, Low, Close) values
-- Technical indicators such as Bollinger Bands, RSI, EMA, etc.
-- Index prices like Nasdaq-100 ETF (QQQ) & S&P 500
-- Lagged features from previous day prices
-- Date features (e.g., leap year, start/end of month/quarter)
+- AAPL.csv
 
 ## Methodology
 1. **Data Collection and Preprocessing**:
